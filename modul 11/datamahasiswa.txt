@@ -1,0 +1,14 @@
+Mahasiswa ke-1
+Nama             : Lutfiah Sahira
+NIM              : 24343039
+Fakultas         : Teknik
+Jurusan          : Informatika
+Program Studi    : S1-Informatika
+------------------------------------------------------------------
+Mahasiswa ke-2
+Nama             : Salsabilla Kurniawati
+NIM              : 24343099
+Fakultas         : Teknik
+Jurusan          : Informatika
+Program Studi    : D3-Informatika
+------------------------------------------------------------------
