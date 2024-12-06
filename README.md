@@ -4,9 +4,9 @@
 ## 24343039
 ---
 ### Modul 1 
-Modul 1 berisi penjelasan mengenai pengantar algoritma dan pemograman. -Algoritma adalah bagian penting dari ilmu komputer, karena algoritma mengatur langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan masalah.
--Pemograman adalah proses penulisan kode menjadi suatu program.
--Salah satu contoh pemograman yang paling mendasar adalah mencetak "Hello World!" 
+Modul 1 berisi penjelasan mengenai pengantar algoritma dan pemograman. Algoritma adalah bagian penting dari ilmu komputer, karena algoritma mengatur langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan masalah.
+Pemograman adalah proses penulisan kode menjadi suatu program. 
+Salah satu contoh pemograman yang paling mendasar adalah mencetak "Hello World!" 
 Soal nomor 3 : Program "Hello, World!" dalam Bahasa C
 Program ini adalah program paling dasar dalam pemrograman C. Fungsinya hanya untuk menampilkan teks "Hello, World!" di layar.
 Penjelasan:
@@ -54,7 +54,7 @@ Program 3 & 4: Menghitung Luas
    * printf(): Untuk menampilkan hasil perhitungan.
    * Operasi aritmatika: Untuk melakukan perhitungan luas.
 
-Modul 3:
+### Modul 3:
 No 1 : Penjelasan:
  * Program ini akan meminta input jumlah uang dalam Rupiah.
  * Nilai kurs ditetapkan sebagai konstanta.
