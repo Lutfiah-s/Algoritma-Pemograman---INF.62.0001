@@ -1,3 +1,4 @@
+// Fungsi Rekursif
 #include <stdio.h>
 
 //fungsi rekursif untuk mengalikan 2 buah bilangan

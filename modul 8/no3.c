@@ -1,3 +1,4 @@
+//  Menghitung luas dan keliling lingkaran dengan fungsi
 #include <stdio.h>
 #define PI 3.14 // Menggunakan π ≈ 3.14
 

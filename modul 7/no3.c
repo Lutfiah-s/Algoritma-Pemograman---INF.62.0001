@@ -1,3 +1,4 @@
+// string password
 #include <stdio.h>
 #include <string.h>
 

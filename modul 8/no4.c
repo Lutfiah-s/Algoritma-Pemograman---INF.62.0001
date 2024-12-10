@@ -1,3 +1,4 @@
+// Fungsi Diskon
 #include <stdio.h>
 
 // Fungsi untuk menghitung potongan diskon

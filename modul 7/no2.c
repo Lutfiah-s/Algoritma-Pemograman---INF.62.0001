@@ -1,3 +1,4 @@
+// Array data mahasiswa
 #include <stdio.h>
 
 int main() {
