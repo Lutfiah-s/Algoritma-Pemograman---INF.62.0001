@@ -13,7 +13,7 @@
 </p>
 
 # 🌿 RINGKASAN MODUL 1-11
-## `MODUL 1` 
+## `🪻MODUL 1` 
 Modul 1 berisi penjelasan mengenai pengantar algoritma dan pemograman. Algoritma adalah bagian penting dari ilmu komputer, karena algoritma mengatur langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan masalah.
 
 Pemograman adalah proses penulisan kode menjadi suatu program. 
@@ -37,7 +37,7 @@ Program ini biasanya menjadi program pertama yang dipelajari oleh pemula dalam b
  * Mengenal fungsi `printf()` untuk menampilkan output.
  * Memahami konsep library dan header file.
 ---
-## `MODUL 2`
+## `🪻MODUL 2`
 ### No 1: Perkenalan
  * Fungsi: Program ini dirancang untuk berinteraksi sederhana dengan pengguna. Program akan menyapa pengguna dan meminta nama lengkapnya, lalu memberikan salam kembali.
  * Input: Nama lengkap pengguna yang diinputkan melalui keyboard.
@@ -71,7 +71,7 @@ Program ini biasanya menjadi program pertama yang dipelajari oleh pemula dalam b
    * `printf()`: Untuk menampilkan hasil perhitungan.
    * Operasi aritmatika: Untuk melakukan perhitungan luas.
 ---
-## `MODUL 3`:
+## `🪻MODUL 3`:
 ### No 1 : Konversi Mata Uang
  * Program ini akan meminta input jumlah uang dalam Rupiah.
  * Nilai kurs ditetapkan sebagai konstanta.
@@ -113,7 +113,7 @@ Program ini biasanya menjadi program pertama yang dipelajari oleh pemula dalam b
   * Luas permukaan bola: Dihitung menggunakan rumus `L = 4 * π * r^2` dan 
     dicetak dengan format dua angka di belakang koma.
 ---
-## `MODUL 4`
+## `🪻MODUL 4`
 ### No 1 : Membuat konversi detik, menit, beserta sisa detik
   * Penjelasan Singkat:
 Kode ini berfungsi untuk mengkonversi jumlah detik menjadi format jam, menit, dan detik. Program akan meminta pengguna untuk memasukkan jumlah waktu dalam detik, kemudian menghitung dan menampilkan hasilnya dalam format yang lebih mudah dibaca.
@@ -194,7 +194,7 @@ Program ini dirancang untuk menghitung biaya sewa film di sebuah bioskop. Biaya 
  * Input: Durasi sewa (dalam program ini sudah ditentukan sebagai 3 jam).
  * Output: Total biaya sewa yang harus dibayar.
 ---
-## `MODUL 5`
+## `🪻MODUL 5`
 ### No 1 : Kalkulator Sederhana
 Program ini dirancang sebagai kalkulator sederhana yang dapat melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, pembagian, dan hasil bagi.
 * Fungsi-fungsi `penjumlahan()`, `pengurangan()`, `perkalian()`, `pembagian()`, `hasil_bagi()`: Masing-masing fungsi ini melakukan satu operasi aritmatika tertentu. Mereka menerima input berupa dua bilangan, melakukan operasi, lalu menampilkan hasilnya.
@@ -243,7 +243,7 @@ Program ini dirancang untuk menghitung nilai akhir mahasiswa berdasarkan nilai k
 * Tentukan Nilai Huruf: Menggunakan `if-else if` untuk menentukan nilai huruf berdasarkan rentang nilai akhir.
 * Tampilkan Hasil: Menampilkan nilai akhir, grade, dan keterangan kelulusan menggunakan `printf`.
 ---
-## `MODUL 6`
+## `🪻MODUL 6`
 ### No 1 : Membuat deret bilangan genap ganjil
 program ini memberikan contoh sederhana tentang bagaimana menggunakan perulangan `for` dalam bahasa C untuk menghasilkan deret bilangan tertentu.
 ```
@@ -304,7 +304,7 @@ Program ini merupakan implementasi sederhana dari sebuah mesin ATM (Anjungan Tun
 </p>
 ---
 
-## `MODUL 7`
+## `🪻MODUL 7`
 ### No 1 : program menghitung rata-rata nilai mahasiswa
 Program ini dirancang untuk menghitung rata-rata nilai dari sekumpulan nilai mahasiswa yang telah didefinisikan dalam sebuah array. Program ini melakukan hal berikut:
 	* Mendefinisikan Array: Membuat sebuah array berukuran 20 elemen untuk menyimpan nilai-nilai mahasiswa.
@@ -338,7 +338,7 @@ Program ini dirancang untuk melakukan autentikasi pengguna sederhana dengan meme
 	Pesan "Berhasil login" jika username dan password benar.
 	Pesan "Password salah" jika username atau password salah.
 ---
-## `MODUL 8`
+## `🪻MODUL 8`
 ### No 1 : Fungsi Rekursif
 Rekursi adalah teknik pemrograman di mana sebuah fungsi memanggil dirinya sendiri. Dalam kasus perkalian, rekursi bekerja dengan prinsip berikut:
 
@@ -392,7 +392,7 @@ Include Header:
 	* Hitung Total Bayar: Menghitung total yang harus dibayarkan dengan mengurangi total pembelian dengan besar diskon.
 	* Tampilkan Hasil: Mencetak besar diskon dan total yang harus dibayarkan ke layar.
 ---
-## `MODUL 9`
+## `🪻MODUL 9`
 ### No 1 : Pointer
 * Deklarasi String:
 	* `char nama[] = "BORLAND";`: Membuat sebuah array karakter bernama `nama` yang berisi string "BORLAND". Array ini akan digunakan untuk menyimpan karakter-karakter dari string tersebut.
@@ -444,7 +444,7 @@ Include Header:
 	Nilai *Layla_B akan sama dengan Lesley_B karena pointer Layla_B menunjuk ke alamat memori yang sama dengan Lesley_B.
 	Nilai Balmond_B akan lebih besar 1 dari Lesley_B karena operasi penjumlahan dilakukan pada nilai yang ditunjuk oleh pointer Layla_B.
 ---
-## `MODUL 10`
+## `🪻MODUL 10`
 ### No 1 : Game Sederhana Tebak Angka
 Program ini merupakan sebuah program sederhana untuk permainan tebak angka. Program ini akan secara acak memilih sebuah angka antara 1 hingga 20, kemudian meminta pengguna untuk menebak angka tersebut.
 * Bilangan Acak: `rand()` menghasilkan bilangan pseudo-acak, dan `srand()` digunakan untuk menginisialisasi seed agar bilangan acak yang dihasilkan lebih variatif.
@@ -485,7 +485,7 @@ Program ini dirancang untuk:
   * Menampilkan Data:
 	Menggunakan `for` loop untuk mengiterasi seluruh elemen dalam array `dataMahasiswa` dan mencetak informasi setiap mahasiswa.
 ---
-## `MODUL 11`
+## `🪻MODUL 11`
 Program ini dirancang untuk:
 Mengumpulkan data mahasiswa: Meminta pengguna untuk memasukkan data mahasiswa seperti nama, NIM, fakultas, jurusan, dan program studi.
 Menyimpan data ke file: Menyimpan data mahasiswa ke dalam sebuah file teks bernama "datamahasiswa.txt".
