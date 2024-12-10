@@ -234,7 +234,7 @@ Program ini dirancang untuk menghitung luas permukaan berbagai bangun ruang (bol
 	```
 	Luas permukaan bangun ruang yang dipilih.
 
- ### No 4 : 
+ ### No 4 : Nilai Akhir mahasiswa dengan nilai huruf
 Program ini dirancang untuk menghitung nilai akhir mahasiswa berdasarkan nilai kehadiran, tugas, UTS, dan UAS. Setelah itu, program akan memberikan nilai huruf dan keterangan kelulusan berdasarkan rentang nilai akhir. Program ini menggunakan struktur if-else if untuk menentukan nilai huruf dan memberikan pesan yang sesuai.
 * Include Header: `#include <stdio.h>` untuk input/output.
 * Deklarasi Variabel: Mendeklarasikan variabel kehadiran, tugas, uts, uas, `nilai_akhir` tipe float untuk menyimpan nilai-nilai numerik, dan `grade` tipe char untuk menyimpan nilai huruf.
@@ -243,7 +243,7 @@ Program ini dirancang untuk menghitung nilai akhir mahasiswa berdasarkan nilai k
 * Tentukan Nilai Huruf: Menggunakan `if-else if` untuk menentukan nilai huruf berdasarkan rentang nilai akhir.
 * Tampilkan Hasil: Menampilkan nilai akhir, grade, dan keterangan kelulusan menggunakan `printf`.
 ---
-## MODUL 6
+## `MODUL 6`
 ### No 1 : Membuat deret bilangan genap ganjil
 program ini memberikan contoh sederhana tentang bagaimana menggunakan perulangan `for` dalam bahasa C untuk menghasilkan deret bilangan tertentu.
 ```
@@ -294,6 +294,20 @@ Program ini merupakan implementasi sederhana dari sebuah mesin ATM (Anjungan Tun
 	Saldo saat ini.
 	Pesan konfirmasi untuk setiap transaksi (berhasil atau gagal).
 	Pesan terima kasih saat pengguna memilih untuk keluar.
+   
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxhY212aGk2dzNrNHluOTNjNTA4b2NnOGlmbjM1ZHowazBsYXJrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jIoFd00talgv72/giphy.webp" alt="Animated GIF">
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/X5wqqXmtbttG121WMy/200.webp?cid=790b7611jqt370sbziz3sss3kopw3gqwnm47z3z8pntnws43&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Animated GIF">
+</p>
+---
+
+## `MODUL 7`
+
+
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
