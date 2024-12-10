@@ -1,3 +1,4 @@
+//kalkulator sederhana//
 #include <stdio.h>
 
 void penjumlahan() {

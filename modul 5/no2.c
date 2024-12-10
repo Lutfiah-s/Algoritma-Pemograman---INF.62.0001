@@ -1,3 +1,4 @@
+//program TOSERBA//
 #include <stdio.h>
 
 float jumlah_diskon(float total_belanja) {

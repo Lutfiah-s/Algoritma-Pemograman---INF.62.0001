@@ -1,4 +1,4 @@
-//membuat deret bilangan genap dan
+//membuat deret bilangan genap dan ganjil
 #include <stdio.h>
 
 int main() 
