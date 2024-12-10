@@ -1,8 +1,18 @@
-# Algoritma-Pemograman---INF.62.0001
----
-## LUTFIAH SAHIRA
-## 24343039
----
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 LUTFIAH SAHIRA | 💻 24343039 | 🛸 Algoritma Pemograman <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Dosen+:+Randi+Proska+Sandra;Algoritma+Pemograman;INF+.+62+.+0001&center=true&width=380&height=45">
+	</a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y3dZXiOTzZYheWSacV/giphy.gif" alt="Animated GIF">
+</p>
+
+# Penjelasan Modul 1-11
 ### Modul 1 
 Modul 1 berisi penjelasan mengenai pengantar algoritma dan pemograman. Algoritma adalah bagian penting dari ilmu komputer, karena algoritma mengatur langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan masalah.
 Pemograman adalah proses penulisan kode menjadi suatu program. 
@@ -23,7 +33,6 @@ Program ini biasanya menjadi program pertama yang dipelajari oleh pemula dalam b
  * Memahami struktur dasar sebuah program C.
  * Mengenal fungsi printf() untuk menampilkan output.
  * Memahami konsep library dan header file.
-
 
 ### Modul 2
 Program 1: Perkenalan
@@ -55,9 +64,22 @@ Program 3 & 4: Menghitung Luas
    * Operasi aritmatika: Untuk melakukan perhitungan luas.
 
 ### Modul 3:
-No 1 : Penjelasan:
+No 1 : 
  * Program ini akan meminta input jumlah uang dalam Rupiah.
  * Nilai kurs ditetapkan sebagai konstanta.
  * Jumlah dolar dihitung dengan membagi jumlah rupiah dengan kurs.
  * Hasil konversi ditampilkan dengan format dua angka di belakang koma.
-No2 :
+No 2 :
+ * Fungsi: Program ini berfungsi untuk mengonversi suhu dari satu skala 
+   (Celsius) ke tiga skala suhu lainnya (Kelvin, Fahrenheit, dan Reamur) 
+   berdasarkan rumus konversi yang telah ditentukan.
+ * Input: Suhu dalam Celsius
+ * Output:
+   * Suhu dalam Kelvin
+   * Suhu dalam Fahrenheit
+   * Suhu dalam Reamur
+No 3 :
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
