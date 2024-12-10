@@ -302,8 +302,8 @@ Program ini merupakan implementasi sederhana dari sebuah mesin ATM (Anjungan Tun
 <p align="center">
   <img src="https://media4.giphy.com/media/X5wqqXmtbttG121WMy/200.webp?cid=790b7611jqt370sbziz3sss3kopw3gqwnm47z3z8pntnws43&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Animated GIF">
 </p>
----
 
+---
 ## `🪻MODUL 7`
 ### No 1 : program menghitung rata-rata nilai mahasiswa
 Program ini dirancang untuk menghitung rata-rata nilai dari sekumpulan nilai mahasiswa yang telah didefinisikan dalam sebuah array. Program ini melakukan hal berikut:
@@ -503,7 +503,8 @@ Penjelasan Detail:
 	Fungsi `fopen`: Membuka file.
 	Fungsi `fgets`: Membaca string dari input.
 	Fungsi `fprintf`: Menulis ke file dengan format tertentu.
-
+---
+# 🔥TERIMA KASIH🔥
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
