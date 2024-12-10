@@ -1,26 +1,3 @@
-<<<<<<< HEAD
-# Algoritma-Pemograman---INF.62.0001
-
-
-## Nama : Lutfiah Sahira
-## NIM  : 24343039
-
-
-### Modul 1 
-Modul 1 berisi penjelasan mengenai pengantar algoritma dan pemograman. -Algoritma adalah bagian penting dari ilmu komputer, karena algoritma mengatur langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan masalah.
--Pemograman adalah proses penulisan kode menjadi suatu program.
--Salah satu contoh pemograman yang paling mendasar adalah mencetak "Hello World!" 
-Soal nomor 3 : Program "Hello, World!" dalam Bahasa C
-Program ini adalah program paling dasar dalam pemrograman C. Fungsinya hanya untuk menampilkan teks "Hello, World!" di layar.
-Penjelasan:
- * #include <stdio.h>: Baris ini menginformasikan kepada compiler bahwa program akan menggunakan fungsi-fungsi yang ada di dalam library stdio.h. Library ini berisi fungsi-fungsi untuk input dan output, termasuk fungsi printf().
- * int main(): Ini adalah fungsi utama dari program. Setiap program C harus memiliki fungsi main().
- * printf("Hello, World!\n");: Fungsi printf() digunakan untuk mencetak teks yang ada di dalam tanda kutip ke layar. \n adalah karakter khusus yang membuat kursor berpindah ke baris berikutnya setelah mencetak teks.
- * return 0: Ini menunjukkan bahwa program telah selesai dijalankan dengan sukses.
-Cara Kerja:
- * Program dimulai dari fungsi main().
- * Fungsi printf() mencetak teks "Hello, World!" ke layar.
-=======
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 LUTFIAH SAHIRA | 💻 24343039 | 🛸 Informatika (nk) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
